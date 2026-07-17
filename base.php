@@ -16,7 +16,7 @@ class BaseAgPicPay extends AgPaymentModule
     public function __construct()
     {
         $this->name                   = 'agpicpay';
-        $this->version                = '1.0.6';
+        $this->version                = '1.0.7';
         $this->bootstrap              = true;
         $this->author                 = 'AGTI';
         $this->need_instance          = 1;
