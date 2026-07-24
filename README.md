@@ -12,6 +12,9 @@ Serviços de suporte técnico estão disponíveis mediante contratação. Solici
 
 **suporte@agti.eng.br**
 
+Página do produto na AGTI: https://www.agti.eng.br/60-modulo-picpay-para-prestashop.html
+
+
 ## Instalação
 
 1. Instale o módulo **[agcliente](https://github.com/agtiengbr/agcliente/releases/latest)** antes: baixe o `.zip` da release mais recente e envie em **Módulos → Gerenciador de módulos → Enviar um módulo** (o envio já instala o módulo).
